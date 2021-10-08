@@ -1,0 +1,4 @@
+ActionClass:
+---------------------------------------------------------------------
+ use "Action" class in "org.openqa.selenium.interactions.Action" package.
+ for interacting with advance webelement. 

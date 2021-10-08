@@ -1,0 +1,186 @@
+intitializing the dependanccy file------
+opening the browser: chrome
+2021-09-23 22:35:16 INFO  Tc_002:9 - intitializing the dependanccy file------
+2021-09-23 22:35:30 INFO  Tc_002:9 - intitializing the dependanccy file------
+2021-09-23 22:35:31 FATAL Tc_002:11 - opening the browser: chrome
+2021-09-23 22:50:46 INFO  Tc_002:9 - start the Tc_002
+2021-09-23 22:50:46 INFO  Tc_002:10 - intitializing the dependanccy file------
+2021-09-23 22:50:48 INFO  Tc_002:13 - opening the browser: chrome
+2021-09-23 22:50:50 INFO  Tc_002:16 - navigate the url: https://www.amazon.in
+2021-09-23 22:50:50 INFO  Tc_002:19 - select the dropdown option by using locator: searchDropdownBox
+2021-09-23 22:50:50 INFO  Tc_002:21 - enter the text harry potter by using locator : field-keywords
+2021-09-23 22:50:53 INFO  Tc_002:23 - click the search button by using locator : //input[@id='nav-search-submit-button']
+2021-09-23 22:50:53 INFO  Tc_002:24 - End the Tc_002
+2021-09-24 16:10:48 INFO  Tc_003:11 - start the Tc_003
+2021-09-24 16:10:48 INFO  Tc_003:14 - intitializing the dependanccy file------
+2021-09-24 16:10:59 INFO  Tc_003:11 - start the Tc_003
+2021-09-24 16:10:59 INFO  Tc_003:14 - intitializing the dependanccy file------
+2021-09-24 16:11:00 INFO  Tc_003:18 - opening the browser: chrome
+2021-09-24 16:11:06 INFO  Tc_003:22 - navigate the url: https://www.amazon.in
+2021-09-24 16:11:06 INFO  Tc_003:26 - select the dropdown option by using locator: searchDropdownBox
+2021-09-24 16:11:06 INFO  Tc_003:30 - enter the text harry potter by using locator : field-keywords
+2021-09-24 16:11:23 INFO  Tc_003:34 - click the search button by using locator : //input[@id='nav-search-submit-button']
+2021-09-24 16:11:23 INFO  Tc_003:37 - End the Tc_003
+2021-09-25 14:27:24 INFO  class:14 - start the Tc_004
+2021-09-25 14:27:24 INFO  class:17 - intitializing the dependanccy file------
+2021-09-25 14:27:25 INFO  class:21 - opening the browser: chrome
+2021-09-25 14:27:27 INFO  class:25 - navigate the url: https://www.amazon.in
+2021-09-25 14:28:45 INFO  class:14 - start the Tc_004
+2021-09-25 14:28:45 INFO  class:17 - intitializing the dependanccy file------
+2021-09-25 14:28:47 INFO  class:21 - opening the browser: chrome
+2021-09-25 14:28:50 INFO  class:25 - navigate the url: https://www.amazon.in
+2021-09-25 14:28:50 INFO  class:35 - End the Tc_004
+2021-09-25 14:32:09 INFO  class:14 - start the Tc_004
+2021-09-25 14:32:09 INFO  class:17 - intitializing the dependanccy file------
+2021-09-25 14:32:10 INFO  class:21 - opening the browser: chrome
+2021-09-25 14:32:12 INFO  class:25 - navigate the url: https://www.amazon.in
+2021-09-25 14:32:12 INFO  class:38 - End the Tc_004
+2021-09-25 14:32:32 INFO  class:14 - start the Tc_004
+2021-09-25 14:32:32 INFO  class:17 - intitializing the dependanccy file------
+2021-09-25 14:32:33 INFO  class:21 - opening the browser: chrome
+2021-09-25 14:32:35 INFO  class:25 - navigate the url: https://www.amazon.in
+2021-09-25 15:40:09 INFO  class:15 - start the Tc_004
+2021-09-25 15:40:09 INFO  class:18 - intitializing the dependanccy file------
+2021-09-25 15:40:32 INFO  class:15 - start the Tc_004
+2021-09-25 15:40:32 INFO  class:18 - intitializing the dependanccy file------
+2021-09-25 15:40:51 INFO  class:15 - start the Tc_004
+2021-09-25 15:40:51 INFO  class:18 - intitializing the dependanccy file------
+2021-09-25 15:40:52 INFO  class:22 - opening the browser: chrome
+2021-09-25 15:40:54 INFO  class:26 - navigate the url: https://www.amazon.in
+2021-09-25 15:40:54 INFO  class:41 - End the Tc_004
+2021-09-25 15:41:25 INFO  class:15 - start the Tc_004
+2021-09-25 15:41:25 INFO  class:18 - intitializing the dependanccy file------
+2021-09-25 15:41:26 INFO  class:22 - opening the browser: chrome
+2021-09-25 15:41:28 INFO  class:26 - navigate the url: https://www.amazon.in
+2021-09-25 16:33:14 INFO  Tc_005:14 - start the Tc_005
+2021-09-25 16:33:14 INFO  Tc_005:17 - intitializing the dependanccy file------
+2021-09-25 16:33:15 INFO  Tc_005:21 - opening the browser: chrome
+2021-09-25 16:33:17 INFO  Tc_005:25 - navigate the url: https://www.amazon.in
+2021-09-25 17:13:26 INFO  Tc_005:14 - start the Tc_005
+2021-09-25 17:13:26 INFO  Tc_005:17 - intitializing the dependanccy file------
+2021-09-25 17:13:28 INFO  Tc_005:21 - opening the browser: chrome
+2021-09-25 17:13:33 INFO  Tc_005:25 - navigate the url: https://www.amazon.in
+2021-09-25 17:13:34 INFO  Tc_005:38 - End the Tc_005
+2021-09-25 17:14:01 INFO  Tc_005:14 - start the Tc_005
+2021-09-25 17:14:01 INFO  Tc_005:17 - intitializing the dependanccy file------
+2021-09-25 17:14:13 INFO  Tc_005:14 - start the Tc_005
+2021-09-25 17:14:13 INFO  Tc_005:17 - intitializing the dependanccy file------
+2021-09-25 17:14:14 INFO  Tc_005:21 - opening the browser: chrome
+2021-09-25 17:14:16 INFO  Tc_005:25 - navigate the url: https://www.amazon.in
+2021-09-25 17:14:16 INFO  Tc_005:38 - End the Tc_005
+2021-09-25 17:15:31 INFO  Tc_005:14 - start the Tc_005
+2021-09-25 17:15:31 INFO  Tc_005:17 - intitializing the dependanccy file------
+2021-09-25 17:15:45 INFO  Tc_005:14 - start the Tc_005
+2021-09-25 17:15:45 INFO  Tc_005:17 - intitializing the dependanccy file------
+2021-09-25 17:15:46 INFO  Tc_005:21 - opening the browser: chrome
+2021-09-25 17:15:48 INFO  Tc_005:25 - navigate the url: https://www.amazon.in
+2021-09-25 17:15:48 INFO  Tc_005:38 - End the Tc_005
+2021-09-25 17:16:30 INFO  Tc_005:14 - start the Tc_005
+2021-09-25 17:16:30 INFO  Tc_005:17 - intitializing the dependanccy file------
+2021-09-25 17:16:45 INFO  Tc_005:14 - start the Tc_005
+2021-09-25 17:16:45 INFO  Tc_005:17 - intitializing the dependanccy file------
+2021-09-25 17:16:47 INFO  Tc_005:21 - opening the browser: chrome
+2021-09-25 17:16:48 INFO  Tc_005:25 - navigate the url: https://www.amazon.in
+2021-09-25 17:16:48 INFO  Tc_005:40 - End the Tc_005
+2021-09-25 17:17:51 INFO  Tc_005:14 - start the Tc_005
+2021-09-25 17:17:51 INFO  Tc_005:17 - intitializing the dependanccy file------
+2021-09-25 17:17:59 INFO  Tc_005:14 - start the Tc_005
+2021-09-25 17:17:59 INFO  Tc_005:17 - intitializing the dependanccy file------
+2021-09-25 17:18:00 INFO  Tc_005:21 - opening the browser: chrome
+2021-09-25 17:18:02 INFO  Tc_005:25 - navigate the url: https://www.amazon.in
+2021-09-25 17:18:02 INFO  Tc_005:40 - End the Tc_005
+2021-09-25 17:18:33 INFO  Tc_005:14 - start the Tc_005
+2021-09-25 17:18:33 INFO  Tc_005:17 - intitializing the dependanccy file------
+2021-09-25 17:18:41 INFO  Tc_005:14 - start the Tc_005
+2021-09-25 17:18:41 INFO  Tc_005:17 - intitializing the dependanccy file------
+2021-09-25 17:18:42 INFO  Tc_005:21 - opening the browser: chrome
+2021-09-25 17:18:42 INFO  Tc_005:21 - opening the browser: chrome
+2021-09-25 17:18:44 INFO  Tc_005:25 - navigate the url: https://www.amazon.in
+2021-09-25 17:18:44 INFO  Tc_005:25 - navigate the url: https://www.amazon.in
+2021-09-25 17:18:44 INFO  Tc_005:40 - End the Tc_005
+2021-09-25 17:18:44 INFO  Tc_005:40 - End the Tc_005
+2021-09-25 17:19:03 INFO  Tc_005:14 - start the Tc_005
+2021-09-25 17:19:03 INFO  Tc_005:17 - intitializing the dependanccy file------
+2021-09-25 17:19:04 INFO  Tc_005:21 - opening the browser: chrome
+2021-09-25 17:19:06 INFO  Tc_005:25 - navigate the url: https://www.amazon.in
+2021-09-25 17:19:06 INFO  Tc_005:40 - End the Tc_005
+2021-09-25 17:21:14 INFO  Tc_005:14 - start the Tc_005
+2021-09-25 17:21:14 INFO  Tc_005:17 - intitializing the dependanccy file------
+2021-09-25 17:21:15 INFO  Tc_005:21 - opening the browser: chrome
+2021-09-25 17:21:17 INFO  Tc_005:25 - navigate the url: https://www.amazon.in
+2021-09-25 17:21:17 INFO  Tc_005:40 - End the Tc_005
+2021-09-25 17:38:20 INFO  Tc_005:15 - start the Tc_005
+2021-09-25 17:38:20 INFO  Tc_005:18 - intitializing the dependanccy file------
+2021-09-25 17:38:21 INFO  Tc_005:22 - opening the browser: chrome
+2021-09-25 17:38:23 INFO  Tc_005:26 - navigate the url: https://www.amazon.in
+2021-09-25 17:38:23 INFO  Tc_005:44 - End the Tc_005
+2021-09-25 17:39:49 INFO  Tc_005:15 - start the Tc_005
+2021-09-25 17:39:49 INFO  Tc_005:18 - intitializing the dependanccy file------
+2021-09-25 17:39:51 INFO  Tc_005:22 - opening the browser: chrome
+2021-09-25 17:39:52 INFO  Tc_005:26 - navigate the url: https://www.amazon.in
+2021-09-25 17:39:53 INFO  Tc_005:44 - End the Tc_005
+2021-09-25 23:29:30 INFO  Tc_005:15 - start the Tc_005
+2021-09-25 23:29:30 INFO  Tc_005:18 - intitializing the dependanccy file------
+2021-09-25 23:29:32 INFO  Tc_005:22 - opening the browser: chrome
+2021-09-25 23:29:35 INFO  Tc_005:26 - navigate the url: https://www.amazon.in
+2021-09-25 23:29:35 INFO  Tc_005:42 - End the Tc_005
+2021-09-25 23:30:34 INFO  Tc_005:15 - start the Tc_005
+2021-09-25 23:30:34 INFO  Tc_005:18 - intitializing the dependanccy file------
+2021-09-25 23:30:35 INFO  Tc_005:22 - opening the browser: chrome
+2021-09-25 23:30:37 INFO  Tc_005:26 - navigate the url: https://www.amazon.in
+2021-09-25 23:30:37 INFO  Tc_005:37 - End the Tc_005
+2021-09-25 23:34:09 INFO  Tc_005:15 - start the Tc_005
+2021-09-25 23:34:09 INFO  Tc_005:18 - intitializing the dependanccy file------
+2021-09-25 23:34:11 INFO  Tc_005:22 - opening the browser: chrome
+2021-09-25 23:34:13 INFO  Tc_005:26 - navigate the url: https://www.amazon.in
+2021-09-25 23:34:13 INFO  Tc_005:37 - End the Tc_005
+2021-09-25 23:34:25 INFO  Tc_005:15 - start the Tc_005
+2021-09-25 23:34:25 INFO  Tc_005:18 - intitializing the dependanccy file------
+2021-09-25 23:34:26 INFO  Tc_005:22 - opening the browser: chrome
+2021-09-25 23:34:28 INFO  Tc_005:26 - navigate the url: https://www.amazon.in
+2021-09-25 23:34:28 INFO  Tc_005:37 - End the Tc_005
+2021-09-25 23:56:59 INFO  Tc_006:15 - start the Tc_006
+2021-09-25 23:56:59 INFO  Tc_006:18 - intitializing the dependanccy file------
+2021-09-25 23:57:01 INFO  Tc_006:22 - opening the browser: chrome
+2021-09-25 23:57:03 INFO  Tc_006:26 - navigate the url: https://www.amazon.in
+2021-09-25 23:57:03 INFO  Tc_006:43 - End the Tc_006
+2021-09-26 00:05:07 INFO  Tc_006:15 - start the Tc_006
+2021-09-26 00:05:07 INFO  Tc_006:18 - intitializing the dependanccy file------
+2021-09-26 00:05:08 INFO  Tc_006:22 - opening the browser: chrome
+2021-09-26 00:05:11 INFO  Tc_006:26 - navigate the url: https://www.amazon.in
+2021-09-26 00:05:11 INFO  Tc_006:43 - End the Tc_006
+2021-09-26 00:35:32 INFO  Tc_006:15 - start the Tc_006
+2021-09-26 00:35:33 INFO  Tc_006:18 - intitializing the dependanccy file------
+2021-09-26 00:35:34 INFO  Tc_006:22 - opening the browser: chrome
+2021-09-26 00:35:36 INFO  Tc_006:26 - navigate the url: https://www.amazon.in
+2021-09-26 00:35:37 INFO  Tc_006:43 - End the Tc_006
+2021-09-26 00:36:32 INFO  Tc_006:15 - start the Tc_006
+2021-09-26 00:36:32 INFO  Tc_006:18 - intitializing the dependanccy file------
+2021-09-26 00:36:34 INFO  Tc_006:22 - opening the browser: chrome
+2021-09-26 00:36:36 INFO  Tc_006:26 - navigate the url: https://www.amazon.in
+2021-09-26 00:36:36 INFO  Tc_006:43 - End the Tc_006
+2021-09-26 00:45:37 INFO  Tc_006:15 - start the Tc_006
+2021-09-26 00:45:37 INFO  Tc_006:18 - intitializing the dependanccy file------
+2021-09-26 00:45:38 INFO  Tc_006:22 - opening the browser: chrome
+2021-09-26 00:45:40 INFO  Tc_006:26 - navigate the url: https://www.amazon.in
+2021-09-26 00:45:41 INFO  Tc_006:43 - End the Tc_006
+2021-09-26 00:47:43 INFO  Tc_006:15 - start the Tc_006
+2021-09-26 00:47:43 INFO  Tc_006:18 - intitializing the dependanccy file------
+2021-09-26 00:47:44 INFO  Tc_006:22 - opening the browser: chrome
+2021-09-26 00:47:47 INFO  Tc_006:26 - navigate the url: https://www.amazon.in
+2021-09-26 00:47:47 INFO  Tc_006:43 - End the Tc_006
+2021-09-26 00:52:07 INFO  Tc_006:15 - start the Tc_006
+2021-09-26 00:52:07 INFO  Tc_006:18 - intitializing the dependanccy file------
+2021-09-26 00:52:08 INFO  Tc_006:22 - opening the browser: chrome
+2021-09-26 00:52:11 INFO  Tc_006:26 - navigate the url: https://www.amazon.in
+2021-09-26 00:52:11 INFO  Tc_006:43 - End the Tc_006
+2021-09-26 00:53:15 INFO  Tc_006:15 - start the Tc_006
+2021-09-26 00:53:15 INFO  Tc_006:18 - intitializing the dependanccy file------
+2021-09-26 00:53:16 INFO  Tc_006:22 - opening the browser: chrome
+2021-09-26 00:53:19 INFO  Tc_006:26 - navigate the url: https://www.amazon.in
+2021-09-26 00:53:19 INFO  Tc_006:43 - End the Tc_006
+2021-09-26 00:55:17 INFO  Tc_006:15 - start the Tc_006
+2021-09-26 00:55:17 INFO  Tc_006:18 - intitializing the dependanccy file------
+2021-09-26 00:55:18 INFO  Tc_006:22 - opening the browser: chrome
+2021-09-26 00:55:21 INFO  Tc_006:26 - navigate the url: https://www.amazon.in
+2021-09-26 00:55:21 INFO  Tc_006:43 - End the Tc_006

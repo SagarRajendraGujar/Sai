@@ -1,0 +1,12 @@
+Action class:
+--------------------------------------------
+for handle advance webElement(Keyboard and Mouse Event)
+build().perform(); = when more than one event are happening.
+perform()= when only one event are happening. 
+
+following event we will perform 
+--------------------------------------------
+1.Right click and Double click
+2.drag and drop
+3.keyboard event
+4.mousehover
